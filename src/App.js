@@ -3,10 +3,10 @@ import UserList from "./components/UserList";
 
 function App() {
   return (
-    <div className="App">
-     <NavBar/>
-     <UserList/>
-    </div>
+		<div className='App bg-dark'>
+			<NavBar />
+			<UserList />
+		</div>
   );
 }
 
